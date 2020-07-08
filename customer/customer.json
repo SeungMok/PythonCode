@@ -1,0 +1,32 @@
+[
+    {
+        "name": "이승목",
+        "gender": "M",
+        "email": "llssk6567@naver.com",
+        "birthyear": 1993
+    },
+    {
+        "name": "이수목",
+        "gender": "M",
+        "email": "llssk4448@naver.com",
+        "birthyear": "1994"
+    },
+    {
+        "name": "이금목",
+        "gender": "M",
+        "email": "mod6360@naver.com",
+        "birthyear": 1999
+    },
+    {
+        "name": "이하하",
+        "gender": "M",
+        "email": "test123@naver.com",
+        "birthyear": 3030
+    },
+    {
+        "name": "테스트",
+        "gender": "F",
+        "email": "test1@naver.com",
+        "birthyear": 4040
+    }
+]
